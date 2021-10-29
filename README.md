@@ -7,3 +7,6 @@ unityにてチュートリアルを参考に作成したボール崩しのゲー
 '→'プレイヤーが右に移動
 '←'プレイヤーが左に移動
 
+![スクリーンショット 2021-10-29 182457](https://user-images.githubusercontent.com/85817145/139415529-e3342c44-af9d-45b3-a420-6bea83a8aaba.png)
+![スクリーンショット 2021-10-29 182420](https://user-images.githubusercontent.com/85817145/139415559-cf6851b6-32c7-4d62-adba-910ab6a6d1e2.png)
+![スクリーンショット 2021-10-29 184920](https://user-images.githubusercontent.com/85817145/139415560-aacdfaf9-a6d9-458f-89b4-159c51410dd1.png)
